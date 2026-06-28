@@ -30,7 +30,7 @@ This project was created as an AI-assisted B2B SaaS prototype to demonstrate Tec
 
 ## Screenshots
 
-Screenshots are available in screenshots folder.
+Screenshots are available in main folder.
 
 
 ## My Role
