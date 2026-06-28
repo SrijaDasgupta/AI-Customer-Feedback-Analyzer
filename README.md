@@ -27,12 +27,6 @@ This project was created as an AI-assisted B2B SaaS prototype to demonstrate Tec
 * Customer Success Teams
 * Support Teams
 
-## Product Documentation
-
-* [Product Requirements Document](docs/PRD.md)
-* [Roadmap](docs/Roadmap.md)
-* [Backlog](docs/Backlog.md)
-* [Architecture](docs/Architecture.md)
 
 ## Screenshots
 
