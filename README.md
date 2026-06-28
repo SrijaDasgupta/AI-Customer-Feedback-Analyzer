@@ -28,11 +28,6 @@ This project was created as an AI-assisted B2B SaaS prototype to demonstrate Tec
 * Support Teams
 
 
-## Screenshots
-
-Screenshots are available in main folder.
-
-
 ## My Role
 
 I designed and launched this AI-assisted prototype using Base44. My focus was product strategy, user problem framing, feature definition, AI workflow design, dashboard requirements, success metrics, and roadmap planning.
